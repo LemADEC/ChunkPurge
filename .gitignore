@@ -15,3 +15,7 @@ hs_err_pid*
 *.iml
 *.iws
 out
+
+#build artifacts
+build
+.gradle
